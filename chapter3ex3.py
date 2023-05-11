@@ -3,7 +3,7 @@ score = input("Enter Score: ")
 try:
 s = float(score)
 except:
-print("Enter:Please enter a number from 0.0 to 1.0")
+print("Bad score")
 quit()
 
 if 
