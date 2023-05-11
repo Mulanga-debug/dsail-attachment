@@ -1,10 +1,10 @@
 //chapter3ex1
 time = input("Enter Hours: ")
 rate = input("Enter enter: ")
-try:
+ try:
 fotime = float(time)
 forate = float(rate)
-except:
+   except:
     print("Error, please enter numeric input")
     print(fotime, forate)
 if forate >40 :
