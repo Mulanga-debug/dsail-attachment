@@ -1,4 +1,4 @@
-//chapter3ex1
+
 time = input("Enter Hours: ")
 rate = input("Enter enter: ")
 fotime = float(time)
